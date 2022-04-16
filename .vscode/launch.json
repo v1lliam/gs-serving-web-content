@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ServingWebContentApplication<serving-web-content-initial>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.servingwebcontent.ServingWebContentApplication",
+      "projectName": "serving-web-content-initial",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ServingWebContentApplication<serving-web-content-complete>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.servingwebcontent.ServingWebContentApplication",
+      "projectName": "serving-web-content-complete",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
