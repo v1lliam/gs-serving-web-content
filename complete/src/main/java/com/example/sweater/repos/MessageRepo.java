@@ -1,8 +1,8 @@
-package com.example.servingwebcontent.repos;
+package com.example.sweater.repos;
 
 import java.util.List;
 
-import com.example.servingwebcontent.domain.Message;
+import com.example.sweater.domain.Message;
 
 import org.springframework.data.repository.CrudRepository;
 
