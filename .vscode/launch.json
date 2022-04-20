@@ -32,6 +32,17 @@
       "projectName": "serving-web-content-complete",
       "args": "",
       "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ServingWebContentApplication<sweater>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.sweater.ServingWebContentApplication",
+      "projectName": "sweater",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
     }
   ]
 }
